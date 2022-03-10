@@ -1,5 +1,3 @@
-# ericwhutch.github.io
-
 <html>
 
 <title>Eric Hutchinson's Webpage</title>
