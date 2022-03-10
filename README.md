@@ -1,5 +1,7 @@
 # ericwhutch.github.io
 
+<html>
+
 <h1>Eric Hutchinson</h1>
 
 <body>
