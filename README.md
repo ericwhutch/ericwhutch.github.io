@@ -1,7 +1,3 @@
-<html>
-
-<title>Eric Hutchinson's Webpage</title>
-
 <h1>Eric Hutchinson</h1>
 
 <body>
