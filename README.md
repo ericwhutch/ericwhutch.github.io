@@ -27,11 +27,10 @@ ehutchinson@losencinosschool.org</a>
 <p>Originally from Canada, I moved to Los Angeles in 2017.</p>
 
 <p>
-<b>Personal interests:</b> Outside of work, my current interests are
-computer programming, financial investing (<i>multiplying money</i>), and meditation.
+<b>Current hobby:</b> Computer programmaing <i>I built this website with HTML code</i>
 </p>
 
-<p><i>I built this website with HTML code</i></p>
+<p>Special interest: spending time with Melissa, my wife. <3</p>
 
 </body>
 </html>
