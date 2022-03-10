@@ -19,7 +19,7 @@ My work email address is <a href="mailto:ehutchinson@losencinosschool.org">
 ehutchinson@losencinosschool.org</a>
 </p>
 
-<p>My education experience includes but is not limited to:</p>
+<p>My education includes but is not limited to:</p>
 <p>* California teaching credential</p>
 <p>* M.A. philosophy, University of Victoria</p>
 <p>* B.A. philosophy, York University</p>
