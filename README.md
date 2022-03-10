@@ -27,7 +27,7 @@ ehutchinson@losencinosschool.org</a>
 <p>Originally from Canada, I moved to Los Angeles in 2017.</p>
 
 <p>
-<b>Current hobby:</b> computer programmaing –– <i>I built this website with HTML and GitHub</i>
+<b>Current hobby:</b> computer programmaing –– <i>I built this website with HTML and GitHub.</i>
 </p>
 
 <p>
